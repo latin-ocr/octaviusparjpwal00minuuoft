@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./octaviusparjpwal00minuuoft_0011.png"; bbox 0 0 1538 2584; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 272 928 1245 1241">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 272 928 1245 1241">
+     <span class='ocr_line' id='line_1_1' title="bbox 557 928 964 968; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 557 942 582 967; x_wconf 86' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_2' title='bbox 622 941 699 968; x_wconf 86' lang='lat' dir='ltr'><strong>SON</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 740 928 964 968; x_wconf 64' lang='lat' dir='ltr'><strong>szMlNENCE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 272 1050 1245 1103; baseline -0.002 -2"><span class='ocrx_word' id='word_1_4' title='bbox 272 1063 345 1101; x_wconf 87' lang='lat' dir='ltr'><strong>LE</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 384 1063 685 1103; x_wconf 88' lang='lat' dir='ltr'><strong>CARDINAL</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 725 1050 937 1100; x_wconf 77' lang='lat' dir='ltr'>DESIRE</span> <span class='ocrx_word' id='word_1_7' title='bbox 976 1061 1245 1100; x_wconf 85' lang='lat' dir='ltr'><strong>MERCIER</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 451 1196 1064 1241; baseline -0.002 -7"><span class='ocrx_word' id='word_1_8' title='bbox 451 1196 741 1241; x_wconf 63' lang='lat' dir='ltr'><strong>ARCHEvssQUE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 780 1208 836 1233; x_wconf 86' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 877 1207 1064 1234; x_wconf 83' lang='lat' dir='ltr'><strong>MALINES</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 410 1329 1111 1368">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 410 1329 1111 1368">
+     <span class='ocr_line' id='line_1_4' title="bbox 410 1329 1111 1368; baseline -0.001 -1"><span class='ocrx_word' id='word_1_11' title='bbox 410 1340 625 1368; x_wconf 88' lang='lat' dir='ltr'>HOMMAGE</span> <span class='ocrx_word' id='word_1_12' title='bbox 664 1329 768 1367; x_wconf 66' lang='lat' dir='ltr'>TRES</span> <span class='ocrx_word' id='word_1_13' title='bbox 808 1339 1111 1367; x_wconf 87' lang='lat' dir='ltr'>RESPECTUEUX</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
